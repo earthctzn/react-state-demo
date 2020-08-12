@@ -14,11 +14,11 @@ function App() {
       </Grid>
 
       <Grid container item>
-        <Grid item xs={false} sm={2}/>
-        <Grid item xs={12} sm={8}>
-          This is where the CounterInput will be displayed
+        <Grid item xs={false} sm={4}/>
+        <Grid item xs={12} sm={4}>
+          <CounterInput />
         </Grid>
-        <Grid item xs={false} sm={2}/>
+        <Grid item xs={false} sm={4}/>
       </Grid>
 
     </Grid>
