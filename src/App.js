@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+// import './App.css';
 import CounterInput from './counterInput'
 import Header from './Header'
 import { Grid } from '@material-ui/core'
